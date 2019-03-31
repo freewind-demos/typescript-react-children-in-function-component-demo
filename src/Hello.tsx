@@ -7,6 +7,7 @@ class Hello extends React.Component {
     return <div>
       <Panel>
         <h1>Hello React</h1>
+        <div>Function Component</div>
       </Panel>
     </div>
   }
